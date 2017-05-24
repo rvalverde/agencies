@@ -1,0 +1,110 @@
+@import 'nib'
+
+*
+	margin 0
+	padding 0
+	font-smoothing antialized
+	font-size 100%
+	font-family arial
+	font-weight normal
+	word-wrap break-word
+	box-sizing border-box
+	border 0
+	list-style none
+	text-size-adjust 100%
+	letter-spacing 0
+	word-spacing 0
+	text-decoration none
+	-webkit-font-smoothing antialiased
+	-moz-osx-font-smoothing grayscale
+	
+*:focus,
+*:active
+	outline none
+
+table
+	border-collapse collapse
+	border-spacing 0
+	width 100%
+
+b,
+strong 
+	font-weight bold
+i,
+em 
+	font-style italic
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary
+	display block
+
+audio,
+canvas,
+progress,
+video
+	display inline-block
+  	vertical-align baseline
+
+audio:not([controls])
+  	display none
+  	height 0
+
+[hidden],
+template
+	display: none
+
+/*
+	Code
+*/
+	
+body
+	font-family 'Roboto', sans-serif
+	font-size 13px
+	
+.width 
+	width 980px
+	margin auto
+	position relative
+	
+#header
+	background #666
+	height 50px
+	box-shadow 0 0 10px #999
+	.header__logo
+		font-size 20px
+		line-height 50px
+		color white
+
+#footer 
+	padding-bottom 25px
+	p 
+		text-align center
+		
+#wrapper
+	padding 25px 0
+	
+.table__group
+	table
+		border 1px solid #ddd
+		thead
+			td
+				background #ddd
+		tbody
+			tr
+				&:nth-child(even)
+					background #eee
+		td
+			padding 8px 12px
+			&.table__item__check
+				width 30px
+				text-align center
+			&.table__item__id
+				width 50px
+				text-align center
+	
+@media screen and (max-width: 980px)
+	.width
+		padding-left 10px
+		padding-right 10px
+		width auto
+	
