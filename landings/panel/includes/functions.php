@@ -16,9 +16,9 @@
 		// output: localhost
 		$hostName = $_SERVER['HTTP_HOST'];
 		// output: http://
-		$protocol = strtolower(substr($_SERVER["SERVER_PROTOCOL"],0,5))=='https://'?'https://':'http://';
+		$protocol = strtolower(substr($_SERVER["SERVER_PROTOCOL"],0,5)) == 'https://' ? 'https://' : 'http://';
 		// return: http://localhost/myproject/
-		echo $protocol.$hostName.$pathInfo['dirname'];
+		echo $protocol . $hostName . $pathInfo['dirname'];
 	}
 
 	function the_title() {
