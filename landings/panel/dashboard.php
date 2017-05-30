@@ -28,10 +28,11 @@
 							<td class="table__item__date">
 								Registrado <i class="fa fa-sort-desc" aria-hidden="true"></i>
 							</td>
+							<td class="table__item__hour">
+								Hora
+							</td>
 							<td class="table__item__info">
-								<a href="#">
-									<i class="fa fa-times" aria-hidden="true"></i>
-								</a>
+								Opciones
 							</td>
 						</tr>
 					</thead>
@@ -61,31 +62,16 @@
 							<td class="table__item__hour">
 								15:05
 							</td>
-						</tr>
-						<tr>
-							<td class="table__item__check">
-								<input type="checkbox" name="list" />
-							</td>
-							<td class="table__item__name">
-								Maria
-							</td>
-							<td class="table__item__lastname">
-								Velasquez
-							</td>
-							<td class="table__item__email">
-								maria@velasquez.com
-							</td>
-							<td class="table__item__phone">
-								987654321
-							</td>
-							<td class="table__item__ip">
-								192.168.1.100
-							</td>
-							<td class="table__item__date">
-								15/05/2017
-							</td>
-							<td class="table__item__hour">
-								15:05
+							<td class="table__item__info">
+								<a href="#">
+									<i class="fa fa-question-circle" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-trash" aria-hidden="true"></i>
+								</a>
 							</td>
 						</tr>
 						<tr>
@@ -113,31 +99,16 @@
 							<td class="table__item__hour">
 								15:05
 							</td>
-						</tr>
-						<tr>
-							<td class="table__item__check">
-								<input type="checkbox" name="list" />
-							</td>
-							<td class="table__item__name">
-								Maria
-							</td>
-							<td class="table__item__lastname">
-								Velasquez
-							</td>
-							<td class="table__item__email">
-								maria@velasquez.com
-							</td>
-							<td class="table__item__phone">
-								987654321
-							</td>
-							<td class="table__item__ip">
-								192.168.1.100
-							</td>
-							<td class="table__item__date">
-								15/05/2017
-							</td>
-							<td class="table__item__hour">
-								15:05
+							<td class="table__item__info">
+								<a href="#">
+									<i class="fa fa-question-circle" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-trash" aria-hidden="true"></i>
+								</a>
 							</td>
 						</tr>
 						<tr>
@@ -165,31 +136,16 @@
 							<td class="table__item__hour">
 								15:05
 							</td>
-						</tr>
-						<tr>
-							<td class="table__item__check">
-								<input type="checkbox" name="list" />
-							</td>
-							<td class="table__item__name">
-								Maria
-							</td>
-							<td class="table__item__lastname">
-								Velasquez
-							</td>
-							<td class="table__item__email">
-								maria@velasquez.com
-							</td>
-							<td class="table__item__phone">
-								987654321
-							</td>
-							<td class="table__item__ip">
-								192.168.1.100
-							</td>
-							<td class="table__item__date">
-								15/05/2017
-							</td>
-							<td class="table__item__hour">
-								15:05
+							<td class="table__item__info">
+								<a href="#">
+									<i class="fa fa-question-circle" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-trash" aria-hidden="true"></i>
+								</a>
 							</td>
 						</tr>
 						<tr>
@@ -217,31 +173,16 @@
 							<td class="table__item__hour">
 								15:05
 							</td>
-						</tr>
-						<tr>
-							<td class="table__item__check">
-								<input type="checkbox" name="list" />
-							</td>
-							<td class="table__item__name">
-								Maria
-							</td>
-							<td class="table__item__lastname">
-								Velasquez
-							</td>
-							<td class="table__item__email">
-								maria@velasquez.com
-							</td>
-							<td class="table__item__phone">
-								987654321
-							</td>
-							<td class="table__item__ip">
-								192.168.1.100
-							</td>
-							<td class="table__item__date">
-								15/05/2017
-							</td>
-							<td class="table__item__hour">
-								15:05
+							<td class="table__item__info">
+								<a href="#">
+									<i class="fa fa-question-circle" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-trash" aria-hidden="true"></i>
+								</a>
 							</td>
 						</tr>
 						<tr>
@@ -269,6 +210,17 @@
 							<td class="table__item__hour">
 								15:05
 							</td>
+							<td class="table__item__info">
+								<a href="#">
+									<i class="fa fa-question-circle" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-trash" aria-hidden="true"></i>
+								</a>
+							</td>
 						</tr>
 						<tr>
 							<td class="table__item__check">
@@ -294,6 +246,165 @@
 							</td>
 							<td class="table__item__hour">
 								15:05
+							</td>
+							<td class="table__item__info">
+								<a href="#">
+									<i class="fa fa-question-circle" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-trash" aria-hidden="true"></i>
+								</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="table__item__check">
+								<input type="checkbox" name="list" />
+							</td>
+							<td class="table__item__name">
+								Maria
+							</td>
+							<td class="table__item__lastname">
+								Velasquez
+							</td>
+							<td class="table__item__email">
+								maria@velasquez.com
+							</td>
+							<td class="table__item__phone">
+								987654321
+							</td>
+							<td class="table__item__ip">
+								192.168.1.100
+							</td>
+							<td class="table__item__date">
+								15/05/2017
+							</td>
+							<td class="table__item__hour">
+								15:05
+							</td>
+							<td class="table__item__info">
+								<a href="#">
+									<i class="fa fa-question-circle" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-trash" aria-hidden="true"></i>
+								</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="table__item__check">
+								<input type="checkbox" name="list" />
+							</td>
+							<td class="table__item__name">
+								Maria
+							</td>
+							<td class="table__item__lastname">
+								Velasquez
+							</td>
+							<td class="table__item__email">
+								maria@velasquez.com
+							</td>
+							<td class="table__item__phone">
+								987654321
+							</td>
+							<td class="table__item__ip">
+								192.168.1.100
+							</td>
+							<td class="table__item__date">
+								15/05/2017
+							</td>
+							<td class="table__item__hour">
+								15:05
+							</td>
+							<td class="table__item__info">
+								<a href="#">
+									<i class="fa fa-question-circle" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-trash" aria-hidden="true"></i>
+								</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="table__item__check">
+								<input type="checkbox" name="list" />
+							</td>
+							<td class="table__item__name">
+								Maria
+							</td>
+							<td class="table__item__lastname">
+								Velasquez
+							</td>
+							<td class="table__item__email">
+								maria@velasquez.com
+							</td>
+							<td class="table__item__phone">
+								987654321
+							</td>
+							<td class="table__item__ip">
+								192.168.1.100
+							</td>
+							<td class="table__item__date">
+								15/05/2017
+							</td>
+							<td class="table__item__hour">
+								15:05
+							</td>
+							<td class="table__item__info">
+								<a href="#">
+									<i class="fa fa-question-circle" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-trash" aria-hidden="true"></i>
+								</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="table__item__check">
+								<input type="checkbox" name="list" />
+							</td>
+							<td class="table__item__name">
+								Maria
+							</td>
+							<td class="table__item__lastname">
+								Velasquez
+							</td>
+							<td class="table__item__email">
+								maria@velasquez.com
+							</td>
+							<td class="table__item__phone">
+								987654321
+							</td>
+							<td class="table__item__ip">
+								192.168.1.100
+							</td>
+							<td class="table__item__date">
+								15/05/2017
+							</td>
+							<td class="table__item__hour">
+								15:05
+							</td>
+							<td class="table__item__info">
+								<a href="#">
+									<i class="fa fa-question-circle" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+								</a>
+								<a href="#">
+									<i class="fa fa-trash" aria-hidden="true"></i>
+								</a>
 							</td>
 						</tr>
 					</tbody>
